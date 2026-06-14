@@ -14,7 +14,7 @@
 
 #Mentor: Neela Santosh
 
-#OutPut:
+#OutPut:  <img width="800" height="407" alt="Image" src="https://github.com/user-attachments/assets/e2b89fd8-aa26-4d0c-8913-d2ea57028a26" />
 
 
 # 📧 Spam Email Detection Using Machine Learning
